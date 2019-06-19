@@ -1,0 +1,2 @@
+# neural-networks-for-image-classification
+Convolutional Neural Networks for image clasification task. The CNN model is designed and compiled according to the classification task addressed here. Convolutional layers are followed by max-pooling layers. The convolutional layers does the data extraction process and max-pooling layers does the scaling process. The layers are flattened out and the output layer contains the number of neurons equal to the number of classes in the dataset under consideration.
